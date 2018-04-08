@@ -1,0 +1,2 @@
+break /home/user/example0.c:1
+
